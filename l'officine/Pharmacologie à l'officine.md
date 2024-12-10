@@ -37,9 +37,9 @@ Cette discipline couvre les types de médicaments, leurs mécanismes d'action, a
 
 ## Mécanisme d’Action
 
-- **Interaction avec les Récepteurs** : Agonistes imitent des substances naturelles (ex. : salbutamol), antagonistes bloquent des substances (ex. : aténolol).
-- **Effet sur les Enzymes** : (ex. : simvastatine inhibe l'HMG-CoA réductase).
-- **Modulation des Systèmes** : (ex. : cyclosporine modifie le système immunitaire).
+**Interaction avec les Récepteurs** : Agonistes imitent des substances naturelles (ex. : salbutamol), Antagonistes bloquent des substances (ex. : aténolol).
+**Effet sur les Enzymes** : Inhibition Enzymatique, Activation Enzymatique (ex. : simvastatine inhibe l'HMG-CoA réductase).
+**Modulation des Systèmes** : Immunosuppression, Immunomodulation (ex. : cyclosporine modifie le système immunitaire).
 
 ### Pharmacocinétique et Pharmacodynamie
 
